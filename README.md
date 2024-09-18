@@ -1,5 +1,5 @@
-# GeoDrop: Real-Time Extracting Droplet Geometric Features from Videos
-A video processing code for geometry analysis of generating droplets
+# GeoDrop
+## Real-Time Extracting Geometric Features of Generating Droplets from Videos
 <p align="center">
     <img src="https://github.com/user-attachments/assets/4b668ecc-7117-42a4-8f3b-a433a3fc22cb" alt="Volume Area" width="300"/>
     <img src="https://github.com/user-attachments/assets/5c0e3dc2-cd7a-447f-a330-da9f0a3575a1" alt="Radius" width="300"/>
