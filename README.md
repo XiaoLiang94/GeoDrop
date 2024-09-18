@@ -17,7 +17,7 @@ cv2 version: 4.7.0 <br>
 
 # Details
 ### Folders
-**main**: Code of the project <br>
+**Main code**: GeoDrop <br>
 **Demo**: A showcase for demonstratating how to use this software <br>
 
 ### User Instructions
