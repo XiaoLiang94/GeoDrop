@@ -21,7 +21,7 @@ cv2 version: 4.7.0 <br>
 **Demo**: A showcase for demonstratating how to use this software <br>
 
 ### User Instructions
-The user interface of the software is divided into four parts: (1) Analysis operation, including reading and analyzing video. (2) Parameter adjustment for changing the Pixels/Length ratio and threshold. (3) Processing display windows. (4) Result display and save.
+The user interface of the software is divided into four parts: (1) Analysis operation, including reading and analyzing video. (2) Parameter adjustment for changing the Pixels/Length ratio and threshold. (3) Processing real-time display windows. (4) Result display and save.
 
 1. Set the Pixels/Length ratio and threshold value.
 2. Press the "Read video" buttom to load the video. 
